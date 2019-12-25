@@ -1,0 +1,68 @@
+*
+{
+    margin: 0px;
+  padding: 0px;
+  
+}
+body
+{
+  position: relative;
+  min-height: 100vh;
+  /* background-image: linear-gradient(.5),url(../images/bookkbg.jpg); */
+  background-size: cover;
+  background-position: center;
+    
+}
+
+.navbar-brand
+{
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 2em;
+  color:white;
+}
+.nav-item
+{
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1em;
+
+}
+
+header
+{
+  background:rgba(52, 86, 241, 0.966); 
+}
+
+.search
+{
+  align-content: center;
+}
+
+.quick-link
+{
+  background-color:rgba(250, 251, 253, 0.966); 
+  align-content: center;
+}
+
+.nav
+{
+  align-content: center;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.container a{
+  text-decoration: none;
+  color: white;
+}
+.bg-light {
+  background-color: rgba(204, 236, 241, 0.966)!important;
+}
+
+element.style {
+  padding: 0px !important;
+  /* box-shadow: 0 0 black; */
+}
